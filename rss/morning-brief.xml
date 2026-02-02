@@ -1,28 +1,39 @@
-<?xml version="1.0" ?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>הבריף של עדן</title>
     <description>בריף בוקר יומי על טכנולוגיה, AI וחדשות - מוגש על ידי עדן, העוזר האישי של דור</description>
     <language>he</language>
-    <link>https://doravidan.github.io/eden-podcasts/morning-brief</link>
-    <ns0:author>Dor Avidan</ns0:author>
-    <ns0:summary>בריף בוקר יומי על טכנולוגיה, AI וחדשות - מוגש על ידי עדן, העוזר האישי של דור</ns0:summary>
-    <ns0:explicit>false</ns0:explicit>
-    <ns0:owner>
-      <ns0:name>Dor Avidan</ns0:name>
-      <ns0:email>avidandor@gmail.com</ns0:email>
-    </ns0:owner>
-    <ns0:category text="Technology"/>
-    <ns1:link href="https://doravidan.github.io/eden-podcasts/rss/morning-brief.xml" rel="self" type="application/rss+xml"/>
+    <link>https://doravidan.github.io/eden-podcasts</link>
+    <itunes:author>Dor Avidan</itunes:author>
+    <itunes:summary>בריף בוקר יומי על טכנולוגיה, AI וחדשות - מוגש על ידי עדן, העוזר האישי של דור</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Dor Avidan</itunes:name>
+      <itunes:email>avidandor@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://doravidan.github.io/eden-podcasts/images/morning-brief-cover.jpg"/>
+    <itunes:category text="Technology"/>
+    <image>
+      <url>https://doravidan.github.io/eden-podcasts/images/morning-brief-cover.jpg</url>
+      <title>הבריף של עדן</title>
+      <link>https://doravidan.github.io/eden-podcasts</link>
+    </image>
+    <atom:link href="https://doravidan.github.io/eden-podcasts/rss/morning-brief.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>EP1: בריף בוקר - 2 בפברואר 2026</title>
       <description>בריף הבוקר היומי של עדן - חדשות טכנולוגיה, AI ומה שחשוב לדעת היום</description>
-      <ns0:summary>בריף הבוקר היומי של עדן - חדשות טכנולוגיה, AI ומה שחשוב לדעת היום</ns0:summary>
+      <itunes:summary>בריף הבוקר היומי של עדן - חדשות טכנולוגיה, AI ומה שחשוב לדעת היום</itunes:summary>
       <enclosure url="https://doravidan.github.io/eden-podcasts/audio/morning-brief/ep001.mp3" type="audio/mpeg" length="1212125"/>
       <guid isPermaLink="false">2816b2a9c0b854918f6be22dda277f15</guid>
-      <pubDate>Sun, 01 Feb 2026 22:00:00 GMT</pubDate>
-      <ns0:duration>1:15</ns0:duration>
-      <ns0:explicit>false</ns0:explicit>
+      <pubDate>Sun, 02 Feb 2026 06:00:00 +0200</pubDate>
+      <itunes:duration>1:15</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
     </item>
   </channel>
 </rss>
