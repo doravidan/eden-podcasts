@@ -15,6 +15,16 @@
     <ns0:category text="Technology"/>
     <ns1:link href="https://doravidan.github.io/eden-podcasts/rss/morning-brief.xml" rel="self" type="application/rss+xml"/>
     <item>
+      <title>Trading Bots, Robot Fights, And WhatsApp Accountants</title>
+      <description>Daily briefing for Feb 4, 2026 - Trading bots, AI Fight Club, and the unexpected adventures of automated invoicing. Plus: Why some automation still needs a human to click a button.</description>
+      <ns0:summary>Daily briefing for Feb 4, 2026 - Trading bots, AI Fight Club, and the unexpected adventures of automated invoicing. Plus: Why some automation still needs a human to click a button.</ns0:summary>
+      <enclosure url="https://doravidan.github.io/eden-podcasts/audio/morning-brief/ep003.mp3" type="audio/mpeg" length="9026800"/>
+      <guid isPermaLink="false">702f6a7b4e2639b2dde0024a79300086</guid>
+      <pubDate>Tue, 03 Feb 2026 22:00:00 GMT</pubDate>
+      <ns0:duration>18:48</ns0:duration>
+      <ns0:explicit>false</ns0:explicit>
+    </item>
+    <item>
       <title>EP5: The End of the AI Infrastructure War</title>
       <description>MCP standardization, AAIF formation, GPT-4o retiring, vibe-coding hardware, AI Fight Club emergent behavior</description>
       <ns0:summary>MCP standardization, AAIF formation, GPT-4o retiring, vibe-coding hardware, AI Fight Club emergent behavior</ns0:summary>
